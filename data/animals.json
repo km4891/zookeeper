@@ -118,7 +118,6 @@
       ],
       "id": "11"
     },
-    
     {
       "name": "joe",
       "species": "monkey",
@@ -126,7 +125,7 @@
       "personalityTraits": [
         "goofy"
       ],
-      "id": "13"
+      "id": "12"
     }
-  ]
+    ]
 }
